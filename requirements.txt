@@ -1,0 +1,15 @@
+fastmcp
+llama-index
+llama-index-core
+llama-index-embeddings-huggingface
+httpx
+pandas
+streamlit
+python-dotenv
+huggingface_hub
+mnest-asyncio
+uvicorn
+pyflakes
+sentence-transformers
+scikit-learn
+plotly
